@@ -1,0 +1,8 @@
+Opombe za izvajanje:
+-igra testirano deluje na Chrome in Firefox, za ostale brskalnike ne vemo
+-na brskalniku obvezno aktivirati grafično podporo
+
+-za testiranje na prenosniku, priporočljivo imeti dedicated grafično
+    -moj ima AMD Radeon R5 255M, pa je ob 1920x1080 poraba grafične nad 90%
+    
+-pri spreminjanju velikosti browserja, najbolje refreshati
